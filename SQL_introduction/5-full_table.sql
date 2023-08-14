@@ -2,4 +2,4 @@
 -- 3 first students in the Batch ID=3
 -- because Batch 3 is the best!
 $*/
-SHOW CREATE TABLE first_table
+SHOW COLUMNS FROM first_table
