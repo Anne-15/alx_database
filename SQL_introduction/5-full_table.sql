@@ -3,5 +3,4 @@
 -- because Batch 3 is the best!
 $*/
     
-SELECT description 
-FROM first_table;
+DESC first_table
