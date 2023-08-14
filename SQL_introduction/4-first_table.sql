@@ -3,4 +3,7 @@
 -- because Batch 3 is the best!
 $*/
     
-SELECT * FROM mysql
+CREATE TABLE IF NOT EXISTS first_table (
+    id INT,
+    name VARCHAR(256)
+);
