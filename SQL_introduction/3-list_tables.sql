@@ -3,3 +3,4 @@
 -- because Batch 3 is the best!
 $*/
 SELECT *
+WHERE table_schema = 'mysql';
