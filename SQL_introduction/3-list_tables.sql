@@ -3,5 +3,4 @@
 -- because Batch 3 is the best!
 $*/
 USE mysql
-SELECT *
-FROM sys.tables
+SHOW tables;
